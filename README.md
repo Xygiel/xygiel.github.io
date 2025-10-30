@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="ru">
 <head>
   <meta charset="utf-8" />
@@ -82,8 +81,8 @@
       </div>
       <nav style="display:flex;gap:8px;align-items:center">
         <!-- Вставь свой email/телефон в href -->
-        <a class="btn" href="mailto:youremail@example.com">youremail@example.com</a>
-        <a class="btn btn-primary" href="tel:+7XXXXXXXXXX">+7 XXX XXX XXXX</a>
+        <a class="btn" href="mailto:info@tinyhost.kz">info@tinyhost.kz</a>
+        /*<a class="btn btn-primary" href="tel:+77089328967">+7 XXX XXX XXXX</a>*/
       </nav>
     </header>
 
@@ -93,7 +92,7 @@
         <p class="muted">Нужна настройка хостинга, миграция сайта, регистрация домена, выставление SSL или автоматизация процессов — мы сделаем быстро и надёжно.</p>
 
         <div class="contact">
-          <a class="cta" href="mailto:youremail@example.com?subject=За%20хостинг%20и%20поддержку">Заказать поддержку</a>
+          <a class="cta" href="mailto:info@tinyhost.kz?subject=За%20хостинг%20и%20поддержку">Заказать поддержку</a>
           <a class="btn" href="#services">Услуги</a>
           <a class="btn" href="#contact">Контакты</a>
         </div>
@@ -194,9 +193,9 @@
         <div class="muted">Заполните email/телефон в шапке. Ниже — быстрые способы связи:</div>
 
         <div style="display:flex;gap:8px;flex-wrap:wrap">
-          <a class="btn" href="mailto:youremail@example.com?subject=Запрос%20поддержки">Написать на почту</a>
-          <a class="btn" href="tel:+7XXXXXXXXXX">Позвонить</a>
-          <a class="btn" href="https://t.me/yourtelegram" target="_blank">Telegram</a>
+          <a class="btn" href="mailto:info@tinyhost.kz?subject=Запрос%20поддержки">Написать на почту</a>
+          /*<a class="btn" href="tel:+7XXXXXXXXXX">Позвонить</a>*/
+          <a class="btn" href="https://t.me/@TinyhostBot" target="_blank">Telegram</a>
         </div>
 
         <div class="muted">Работаем с малыми и средними бизнесами, индивидуальными предпринимателями и личными проектами. Готовы к разовым и долгосрочным договорам сопровождения.</div>
