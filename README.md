@@ -26,8 +26,7 @@
     }
     .container{max-width:980px;margin:0 auto;}
     header{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:28px}
-    .brand{display:flex;align-items:center;gap:12px}
-    .logo{
+     .logo{
       width:56px;height:56px;border-radius:10px;
       background:linear-gradient(135deg,var(--accent),#7c3aed);
       display:flex;align-items:center;justify-content:center;font-weight:700;color:#041022;
@@ -71,18 +70,18 @@
 </head>
 <body>
   <div class="container">
-    <header>
-  <div class="brand" style="display:flex;align-items:center;gap:12px;">
-    <div class="logo">
-      <img src="zna4ok.png" alt="TinyHost Logo" style="height:60px;width:auto;">
-    </div>
+<header style="display:flex;justify-content:space-between;align-items:center;padding:10px 20px;">
+  <div class="brand" style="display:flex;align-items:center;gap:10px;">
+    <img src="zna4ok.png" alt="TinyHost Logo" style="height:50px;width:auto;display:block;background:none;border:none;box-shadow:none;">
     <div>
-      <h1 style="margin:0;">TinyHost</h1>
-      <p class="lead" style="margin:0;color:#666;">Разработка и поддержка сайтов · Домены · SSL · DNS · Автоматизация</p>
+      <h1 style="margin:0;font-size:1.5em;">TinyHost</h1>
+      <p class="lead" style="margin:0;color:#666;font-size:0.9em;">
+        Разработка и поддержка сайтов · Домены · SSL · DNS · Автоматизация
+      </p>
     </div>
   </div>
-  <nav style="display:flex;gap:8px;align-items:center">
-    <a class="btn" href="mailto:info@tinyhost.kz">info@tinyhost.kz</a>
+  <nav>
+    <a class="btn" href="mailto:info@tinyhost.kz" style="text-decoration:none;padding:8px 16px;background:#0078ff;color:#fff;border-radius:6px;">info@tinyhost.kz</a>
   </nav>
 </header>
 
