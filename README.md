@@ -73,7 +73,7 @@
   <div class="container">
     <header>
       <div class="brand">
-        <div class="logo">TH</div>
+        <div class="logo">zna4ok.png</div>
         <div>
           <h1>TinyHost</h1>
           <p class="lead">Разработка и поддержка сайтов · Домены · SSL · DNS · Автоматизация</p>
@@ -81,8 +81,7 @@
       </div>
       <nav style="display:flex;gap:8px;align-items:center">
         <!-- Вставь свой email/телефон в href -->
-        <a class="btn" href="mailto:info@tinyhost.kz">info@tinyhost.kz</a>
-        /*<a class="btn btn-primary" href="tel:+77089328967">+7 XXX XXX XXXX</a>*/
+        <a class="btn" href="mailto:info@tinyhost.kz">info@tinyhost.kz</a>        
       </nav>
     </header>
 
@@ -194,8 +193,7 @@
 
         <div style="display:flex;gap:8px;flex-wrap:wrap">
           <a class="btn" href="mailto:info@tinyhost.kz?subject=Запрос%20поддержки">Написать на почту</a>
-          /*<a class="btn" href="tel:+7XXXXXXXXXX">Позвонить</a>*/
-          <a class="btn" href="https://t.me/@TinyhostBot" target="_blank">Telegram</a>
+          <a class="btn" href="https://t.me/TinyhostBot" target="_blank">Telegram</a>
         </div>
 
         <div class="muted">Работаем с малыми и средними бизнесами, индивидуальными предпринимателями и личными проектами. Готовы к разовым и долгосрочным договорам сопровождения.</div>
@@ -203,8 +201,7 @@
     </section>
 
     <footer>
-      <div>© <strong>TinyHost</strong> — Услуги по серверам и сайтам • Uralsk, Kazakhstan</div>
-      <div style="margin-top:6px" class="muted">Сделано с заботой. Готов помочь с переносом сайта на GitHub Pages или настройкой бесплатной панели.</div>
+      <div>© <strong>TinyHost</strong> — Услуги по серверам и сайтам • Uralsk, Kazakhstan</div>  
     </footer>
   </div>
 </body>
