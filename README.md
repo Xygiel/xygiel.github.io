@@ -1,0 +1,2 @@
+# tinyhost.kz
+Tinyhost
