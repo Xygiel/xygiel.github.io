@@ -72,18 +72,19 @@
 <body>
   <div class="container">
     <header>
-      <div class="brand">
-        <div class="logo">zna4ok.png</div>
-        <div>
-          <h1>TinyHost</h1>
-          <p class="lead">Разработка и поддержка сайтов · Домены · SSL · DNS · Автоматизация</p>
-        </div>
-      </div>
-      <nav style="display:flex;gap:8px;align-items:center">
-        <!-- Вставь свой email/телефон в href -->
-        <a class="btn" href="mailto:info@tinyhost.kz">info@tinyhost.kz</a>        
-      </nav>
-    </header>
+  <div class="brand" style="display:flex;align-items:center;gap:12px;">
+    <div class="logo">
+      <img src="zna4ok.png" alt="TinyHost Logo" style="height:60px;width:auto;">
+    </div>
+    <div>
+      <h1 style="margin:0;">TinyHost</h1>
+      <p class="lead" style="margin:0;color:#666;">Разработка и поддержка сайтов · Домены · SSL · DNS · Автоматизация</p>
+    </div>
+  </div>
+  <nav style="display:flex;gap:8px;align-items:center">
+    <a class="btn" href="mailto:info@tinyhost.kz">info@tinyhost.kz</a>
+  </nav>
+</header>
 
     <section class="hero">
       <div class="left">
