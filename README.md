@@ -1,2 +1,3 @@
 # tinyhost.kz
 Tinyhost
+Hello!
