@@ -81,7 +81,7 @@
     </div>
   </div>
   <nav>
-    <a class="btn" href="mailto:info@tinyhost.kz" style="text-decoration:none;padding:8px 16px;background:#0078ff;color:#fff;border-radius:6px;">info@tinyhost.kz</a>
+    <a class="btn" href="mailto:sseff_as@outlook.com" style="text-decoration:none;padding:8px 16px;background:#0078ff;color:#fff;border-radius:6px;">sseff_as@outlook.com</a>
   </nav>
 </header>
 
@@ -91,7 +91,7 @@
         <p class="muted">Нужна настройка хостинга, миграция сайта, регистрация домена, выставление SSL или автоматизация процессов — мы сделаем быстро и надёжно.</p>
 
         <div class="contact">
-          <a class="cta" href="mailto:info@tinyhost.kz?subject=За%20хостинг%20и%20поддержку">Заказать поддержку</a>
+          <a class="cta" href="mailto:sseff_as@outlook.com?subject=За%20хостинг%20и%20поддержку">Заказать поддержку</a>
           <a class="btn" href="#services">Услуги</a>
           <a class="btn" href="#contact">Контакты</a>
         </div>
@@ -192,7 +192,7 @@
         <div class="muted">Заполните email/телефон в шапке. Ниже — быстрые способы связи:</div>
 
         <div style="display:flex;gap:8px;flex-wrap:wrap">
-          <a class="btn" href="mailto:info@tinyhost.kz?subject=Запрос%20поддержки">Написать на почту</a>
+          <a class="btn" href="mailto:sseff_as@outlook.com?subject=Запрос%20поддержки">Написать на почту</a>
           <a class="btn" href="https://t.me/TinyhostBot" target="_blank">Telegram</a>
         </div>
 
